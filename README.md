@@ -1,6 +1,6 @@
 # [Urban Nature Recommender](https://unarec.azurewebsites.net/)
 
-The Urban Nature Recommender (UNR) is an expert system that facilitates knowledge acquisition from an NBS case repository. The UNR is a hybrid system integrating a black-box Artificial Neural Network (ANN) with a white-box Case-Based Reasoning model. UNR can be accessed using this link: https://nbscbs.herokuapp.com/
+The Urban Nature Recommender (UNR) is an expert system that facilitates knowledge acquisition from an NBS case repository. The UNR is a hybrid system integrating a black-box Artificial Neural Network (ANN) with a white-box Case-Based Reasoning model. UNR can be accessed using this link: https://unarec.azurewebsites.net/
 
 The system involves:
 
